@@ -102,7 +102,6 @@ with col1:
 
 with col2:
     st.subheader("What factors matter most?")
-    # Use best_model feature importances if available
     if hasattr(model, 'feature_importances_'):
         feat_imp = pd.Series(model.feature_importances_, index=feature_cols).sort_values(ascending=False).head(15)
     elif hasattr(model, 'named_steps') and hasattr(model.named_steps.get('clf', None), 'feature_importances_'):
