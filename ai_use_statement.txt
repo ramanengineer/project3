@@ -1,0 +1,63 @@
+AI USE STATEMENT — PROJECT 3
+297.201 Data Science, Semester 1 2026
+Student: Raman Prasad | ID: 24011623
+
+Live Streamlit App: https://nz-crash-predictor.streamlit.app/
+GitHub Repository: https://github.com/ramanengineer/project3
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — HOW AI WAS USED IN THIS PROJECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+In accordance with the guidelines provided for Project 3, you can use Claude from Anthropic's generative AI in the below-authorised methods:
+
+1. WEB APP DEVELOPMENT (as stated in the assignment brief - usage permitted):
+
+   - The Streamlit App (app.py) was developed with support from the AI.
+   - In the Assignment Brief, it states "you can use LLMs as much as you want" to create the software object / web app.
+   - The AI was used to create the layout of the Streamlit App as well as the sidebar sliders and the Probability Chart and the Feature Importance Chart display code.
+
+2. PLANNING & CONCEPT DEVELOPMENT (allowed):
+
+   - The AI was used to assist in planning the relevant scope for this overall project structure and which features from the CAS Dataset to include.
+   - The AI was used to understand machine learning concepts such as what an F1 score is and how Gradient Boosting works; this assisted me as a novice in the area of machine learning in developing an understanding of these topics.
+
+3. UNDERSTANDING / EXPLAINING (allowed):
+
+   - As a person who works as a Data anlyst for Octopus Energy, I did use AI to assist with this assignment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — WHERE AI WAS NOT USED / WHAT I DID MYSELF
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- I sourced the dataset from the Open Data portal of Waka Kotahi myself.
+- I also ran through each cell in the notebook and checked verified each of the outputs myself.
+- I determined for myself which features that would be kept and which models I want to compare.
+- I wrote Section 9. The Key Insights and Conclusions were written based on what I saw from the actual model outputs and charts.
+- I identified the class imbalance issue created by Fatal accidents myself from using the confusion matrix and the classification report outputs.
+- I deployed the application to Streamlit and maintain the GitHub repository by my own means.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — PERSONAL CIRCUMSTANCES (Presentation Exemption Request)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+As a solo student, I am submitting this project as a solo effort. The reason for this is personal circumstances and extreme anxiety which made it almost impossible to communicate with others, as well as coordinate with them throughout this semester.
+
+As far as the actual presentation portion goes - I have major issues with anxiety when it comes to any sort of real-time presentation, as well as presenting via recorded video to family and friends. I experience tremendous psychological distress even when anticipating the possibility of presenting in front of other students (or being recorded).
+
+I am aware that this is a significant portion of the overall assignment grade and therefore there are penalties for not attending the evaluation date. I respectfully ask the teaching team to consider this situation when determining my score and I am willing to provide documentation, if necessary.
+
+I have instead demonstrated my work through:
+- A fully deployed and publicly accessible Streamlit web application: https://nz-crash-predictor.streamlit.app/
+- A complete, professionally structured Jupyter notebook with all outputs
+- A GitHub repository with full version history: https://github.com/ramanengineer/project3
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — AI TOOLS DECLARATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Utilized application: Claude (Anthropic) — claude.ai for web application code development, project explanation, planning.
+
+I declare that the data presented in this declaration is accurate as it relates to my use of artificial intelligence in my completion of the analytical and modelling aspects of this project and will fully comply to all permitted uses for use of AI as elaborated under the Project 3 submission record.
+
+Name: Raman Prasad
