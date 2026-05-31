@@ -3,14 +3,14 @@
 
 **Project Title:** NZ Road Crash Severity Predictor  
 **Dataset:** Waka Kotahi CAS Open Data  
-**Student ID:** [YOUR STUDENT ID]  
+**Student ID:** 24011623  
 **Name:** Raman Prasad
 
 ---
 
 ## Contribution Statement (Solo Submission)
 
-This project was completed as a solo submission (approved — group of one).
+This project was completed as a solo submission.
 
 All work described below was completed entirely by myself.
 
@@ -27,20 +27,3 @@ All work described below was completed entirely by myself.
 | **Notebook write-up** | Structured and documented the full Jupyter notebook including insights and conclusions | 100% |
 
 ---
-
-## Peer Presentation Marking
-
-*(Complete and attach after watching presentations in Week 12)*
-
-| Group | Score /10 | Comments |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-
----
-
-*I declare that this submission is my own work and that I have correctly acknowledged the work of others.*
-
-**Signed:** ___________________________  
-**Date:** 27 May 2026
