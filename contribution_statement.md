@@ -1,4 +1,4 @@
-# Project 3 — Team Member Contribution Statement
+# Project 3 Team Member Contribution Statement
 ## 297.201 Data Science, Semester 1 2026 — Massey University
 
 **Project Title:** NZ Road Crash Severity Predictor  
